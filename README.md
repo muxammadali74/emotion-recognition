@@ -46,11 +46,7 @@ python detect_emotion.py
 
 The webcam will open, and the system will detect your face and display the predicted emotion.
 
-### Train the Model:
-If you want to train the model from scratch or on a custom dataset:
-```bash
-python train.py
-```
+
 
 Make sure your dataset is structured and labeled appropriately.
 
