@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🎭 Real-Time Emotion Recognition from Webcam
 
 This project uses computer vision and deep learning to detect human faces and recognize emotions in real time through a webcam.
