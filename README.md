@@ -67,12 +67,10 @@ All dependencies can be installed via `requirements.txt`.
 
 ```
 emotion-recognition/
-├── train.py               # Training script
+├── emotion-detection_train_model.ipynb  # Training script
 ├── detect_emotion.py      # Real-time emotion detection
-├── model.pth              # Trained model (optional, add download link)
+├── models              # Trained models (optional, add download link)
 ├── requirements.txt
-├── utils/
-│   └── preprocessing.py   # Helper functions (if used)
 ├── examples/
 │   └── demo.jpg           # Sample image showing detection
 └── README.md
